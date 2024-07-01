@@ -1,0 +1,24 @@
+Numero: 1
+Localizacao: Andar 2 - Seção A
+Status: ocupado
+TipoVeiculo: caminhao
+
+Numero: 2
+Localizacao: Andar 2 - Seção A
+Status: livre
+TipoVeiculo: moto
+
+Numero: 3
+Localizacao: Andar 3 - Seção A
+Status: livre
+TipoVeiculo: caminhao
+
+Numero: 4
+Localizacao: Andar 4 - Seção B
+Status: ocupado
+TipoVeiculo: carro
+
+Numero: 5
+Localizacao: Andar 5 - Seção B
+Status: ocupado
+TipoVeiculo: carro

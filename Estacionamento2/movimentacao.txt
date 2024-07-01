@@ -1,0 +1,14 @@
+
+
+Veiculo: caminhao
+Numero da vaga: 1
+HorarioEntrada: 13:00
+
+Veiculo: carro
+Numero da vaga: 4
+HorarioEntrada: 13:00
+
+Veiculo: carro
+Numero da vaga: 5
+HorarioEntrada: 13:00
+

@@ -1,0 +1,18 @@
+Cliente: Fil
+Veiculo: carro
+Horario: 7:00
+Numero da Vaga: 4
+Status: ocupado
+
+Cliente: ggf
+Veiculo: caminhao
+Horario: 8:00
+Numero da Vaga: 1
+Status: ocupado
+
+Cliente: xuvaaa
+Veiculo: carro
+Horario: 9:00
+Numero da Vaga: 5
+Status: ocupado
+

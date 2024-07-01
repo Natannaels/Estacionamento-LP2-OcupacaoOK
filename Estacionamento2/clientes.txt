@@ -1,0 +1,89 @@
+# Clientes
+Nome: Fil
+Telefone: 1234
+Email: dsfdgfh
+Veiculos:
+- Carro - Placa: Ab12, Cor: null, Marca: ford, Modelo: wertt
+- Moto - Placa: 123D, Marca: Honda, Modelo: seila, Cilindradas: 20
+- Caminhao - Placa: 16BIL, Carga Máxima: 13, Comprimento: 1
+
+Nome: Ronaldzin
+Telefone: 4321
+Email: r@
+Veiculos:
+- Carro - Placa: abc, Cor: null, Marca: honda, Modelo: hosad
+- Moto - Placa: abc, Marca: 2021, Modelo: honda, Cilindradas: 1000
+
+Nome: Joao
+Telefone: 1234
+Email: 3245
+Veiculos:
+- Carro - Placa: null, Cor: null, Marca: null, Modelo: null
+
+Nome: Pedr
+Telefone: 1234
+Email: 3245
+Veiculos:
+- Moto - Placa: 2435, Marca: 324, Modelo: 3243, Cilindradas: 6
+
+Nome: vi
+Telefone: 1234
+Email: 3245
+Veiculos:
+- Carro - Placa: null, Cor: null, Marca: null, Modelo: null
+- Moto - Placa: 2435, Marca: 3243, Modelo: 324, Cilindradas: 6
+
+Nome: Tiag
+Telefone: 1234
+Email: 3245
+Veiculos:
+- Carro - Placa: Df123, Cor: null, Marca: Fiat, Modelo: UNo
+- Moto - Placa: 23243, Marca: BIS, Modelo: 234, Cilindradas: 3
+
+
+Nome: ggf
+Telefone: 123
+Email: 123
+Veiculos:
+- Carro - Placa: abc, Cor: null, Marca: kjabsd, Modelo: suadh
+- Caminhao - Placa: abc, Carga Máxima: 10, Comprimento: 10
+- Carro - Placa: asd, Cor: null, Marca: as, Modelo: as
+- Carro - Placa: 12FF, Cor: null, Marca: honda, Modelo: 2020
+- Moto - Placa: 123ABC, Marca: honda, Modelo: 2021, Cilindradas: 1200
+- Carro - Placa: abc, Cor: verde, Marca: toyota, Modelo: 2035
+
+Nome: rerq
+Telefone: qwe
+Email: wqeqwe
+Veiculos:
+- Carro - Placa: qwewq, Cor: null, Marca: qwewqq, Modelo: qwewq
+- Moto - Placa: qwewq, Marca: qqwe123, Modelo: qweqwqwe, Cilindradas: 12312
+
+Nome: roro
+Telefone: q324124
+Email: @@
+Veiculos:
+- Carro - Placa: ABC, Cor: null, Marca: Fiat, Modelo: Uno
+- Moto - Placa: ABC, Marca: 1200, Modelo: honda, Cilindradas: 1000
+
+Nome: ronald
+Telefone: 91984510689
+Email: ronaldscosta0709@gmail.com
+Veiculos:
+- Moto - Placa: ABC, Marca: Honda, Modelo: 2024, Cilindradas: 1200
+- Carro - Placa: abc, Cor: null, Marca: fiat, Modelo: uno
+
+Nome: xuvaaa
+Telefone: 8181
+Email: @@
+Veiculos:
+- Moto - Placa: 123, Marca: 123, Modelo: 123, Cilindradas: 123
+- Caminhao - Placa: gfx, Carga Máxima: 33, Comprimento: 1
+- Carro - Placa: abc, Cor: null, Marca: asd, Modelo: asd
+
+Nome: novoteste
+Telefone: 666555
+Email: 12@12
+Veiculos:
+- Carro - Placa: acf, Cor: braco, Marca: teste, Modelo: teste
+
